@@ -1,2 +1,1 @@
-Testing...
-test + autotest
+Testing... test
